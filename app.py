@@ -13,6 +13,8 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title='chatbot for Q&A')
 st.header('chatbot for Q&A by hj')
+st.header('chatbot for Q&A by hj')
+
 
 input = st.text_input("Input :" ,key = "input")
 
